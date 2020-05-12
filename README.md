@@ -1,6 +1,9 @@
-Practiced Swift iOS development by creating a 'Pokédex App' learning how to use segues and to work on the RESTful Pokémon API.
+# MyNotes-iOS13-App
+
+Practiced Swift iOS development by creating a 'Notes App' learning how to use segues and to work on SQLlite3 Database.
 
 A Pokédex App make you able to:
 
-      1- Search for Pokémon and view their attributes and evolution.
-      2- Browse through each Pokémon skills and their name, power, and description.
+      1- Insert a new unlimted number of notes on the application.
+      2- Update or Delete each note content.
+      3- Search for notes and view their content by it's title.
